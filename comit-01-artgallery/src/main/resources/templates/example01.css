@@ -1,16 +1,37 @@
 
 
 h1{
-	color:#FA41A4;
+	color:black;
 }
 h2{
-	color:blueviolet;
+	color:black;
 } 
 
 p{
 	color:crimson;
 }
+lebel{
+	colour:black;	
+}
 
-body {
+input{
+	colour:black;
+}
+.login-container{
+  margin:auto;
+  margin-top: 100px;
+  padding: 10px;
+  width: 50%;
+  left:200px;    
   background-color: lightblue;
-} 
+}
+
+.login-heading{
+	text-align: center;
+	text-align: center;
+}
+
+
+.login-button{
+	text-align: right;
+}
